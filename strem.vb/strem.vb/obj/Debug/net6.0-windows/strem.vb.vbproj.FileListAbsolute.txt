@@ -1,0 +1,34 @@
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.exe
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.deps.json
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.runtimeconfig.json
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.dll
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.pdb
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.Form1.resources
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.GenerateResource.cache
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.AssemblyInfo.vb
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.dll
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\refint\strem.vb.dll
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.pdb
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.genruntimeconfig.cache
+C:\Users\Leo\Desktop\visual s\strem.vb\strem.vb\obj\Debug\net6.0-windows\ref\strem.vb.dll
+C:\Users\Leo\Desktop\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.exe
+C:\Users\Leo\Desktop\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.deps.json
+C:\Users\Leo\Desktop\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.runtimeconfig.json
+C:\Users\Leo\Desktop\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.dll
+C:\Users\Leo\Desktop\strem.vb\strem.vb\bin\Debug\net6.0-windows\strem.vb.pdb
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.Form1.resources
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.GenerateResource.cache
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.AssemblyInfo.vb
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.vbproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.dll
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\refint\strem.vb.dll
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.pdb
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\strem.vb.genruntimeconfig.cache
+C:\Users\Leo\Desktop\strem.vb\strem.vb\obj\Debug\net6.0-windows\ref\strem.vb.dll
