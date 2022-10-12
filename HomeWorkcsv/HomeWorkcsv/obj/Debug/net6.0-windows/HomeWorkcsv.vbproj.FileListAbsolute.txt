@@ -1,0 +1,34 @@
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.Form1.resources
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.GenerateResource.cache
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.AssemblyInfo.vb
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.exe
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.deps.json
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.runtimeconfig.json
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.pdb
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\refint\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.pdb
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.genruntimeconfig.cache
+C:\Users\Leo\Desktop\visual s\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\ref\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.exe
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.deps.json
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.runtimeconfig.json
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\bin\Debug\net6.0-windows\HomeWorkcsv.pdb
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.Form1.resources
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.GenerateResource.cache
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.AssemblyInfo.vb
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.vbproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\refint\HomeWorkcsv.dll
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.pdb
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\HomeWorkcsv.genruntimeconfig.cache
+C:\Users\Leo\Desktop\HomeWorkcsv\HomeWorkcsv\obj\Debug\net6.0-windows\ref\HomeWorkcsv.dll
